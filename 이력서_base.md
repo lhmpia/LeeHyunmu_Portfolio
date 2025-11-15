@@ -31,6 +31,27 @@
 
 ---
 
+### Git
+
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트명</th>
+      <th>Git URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>배터리 검사/진단 장비 SW</td>
+      <td><a href="https://github.com/lhmpaiPublic/PTCProject.git">https://github.com/lhmpaiPublic/PTCProject.git</a></td>
+    </tr>
+    <tr>
+      <td>군 훈련체계(데이터 해상도 변환)</td>
+      <td><a href="https://github.com/lhmpaiPublic/MRMProject.git">https://github.com/lhmpaiPublic/MRMProject.git</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🛠 경력 및 자격
 
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%; text-align:left;">
