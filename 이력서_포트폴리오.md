@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="220" valign="top">
-<img src="./lhm_증명사진.jpg" width="200" height="200"/>
+<img src="./img/lhm_증명사진.jpg" width="200" height="200"/>
 </td>
 <td valign="top">
 
