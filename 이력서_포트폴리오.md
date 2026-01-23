@@ -375,7 +375,7 @@ AI·클라우드·자동화 기술을 접목한
       손쉽게 사용할 수 있도록 제공하는 Windows 기반 애플리케이션입니다.<br><br>
       교통카드 조회, 공인인증서 플러그인 연동, 스마트카드 드라이버 자동 설치,
       PC 보안 기능, 제휴사 사이트 연결 기능을 제공하였습니다.<br><br>
-      <img src="./AQ_MyCard.png" style="max-width:300px; border:1px solid #aaa;">
+      <img src="./img/AQ_MyCard.png" style="max-width:300px; border:1px solid #aaa;">
     </td>
   </tr>
 </table>
@@ -404,7 +404,7 @@ AI·클라우드·자동화 기술을 접목한
     <td>
       NFC 솔루션은 Near Field Communication(근거리 무선통신) 비즈니스 모델 구성을 위한 홍보 Application, NFC 표준 스펙 구현 모듈, NFC 칩 통신 방법 등을 구성하기 위한 시스템입니다.<br>
       초기 NFC 폰(피처폰)의 기능에 대한 비즈니스 모델 설계와 생소한 NFC에 대한 발전, 진화 방향을 위해서 모듈 구성, 해외 NFC 기능 홍보 App 제작.<br>
-      <img src="./AQ_NFC.png" alt="NFC 프로젝트 이미지">
+      <img src="./img/AQ_NFC.png" alt="NFC 프로젝트 이미지">
     </td>
   </tr>
 </table>
@@ -437,7 +437,7 @@ AI·클라우드·자동화 기술을 접목한
       수소수 판매 시스템은 정수기 관리, 수소수 판매, 카드 결제, 카드 충전을 통합적으로 할 수 있는 시스템입니다.<br>
       실행환경은 WinCE입니다.<br>
       수소수 정수기에서 신용카드 Tag 후 결제하는 네트워크 시스템을 WinCE 환경에서 개발한 시스템입니다.<br>
-      <img src="./AQ_Japan.png" alt="수소수 정수기 프로젝트 이미지">
+      <img src="./img/AQ_Japan.png" alt="수소수 정수기 프로젝트 이미지">
     </td>
   </tr>
 </table>
@@ -466,7 +466,7 @@ AI·클라우드·자동화 기술을 접목한
     <td>
       AQ NFC 솔루션은 Windows 기반에서 동작하는 AQ NFC 하드웨어를 사용하기 위한 시스템입니다.<br>
       NFC 관련 국내 및 MWC 해외전시회에서 시연하는 장면입니다.<br>
-      <img src="./AQ_exhibition.jpg" alt="NFC 전시회 시연 이미지">
+      <img src="./img/AQ_exhibition.jpg" alt="NFC 전시회 시연 이미지">
     </td>
   </tr>
 </table>
@@ -495,7 +495,7 @@ AI·클라우드·자동화 기술을 접목한
     <td>
       본 프로젝트는 AQ NFC 솔루션을 실제 적용하기 AQ Component 시스템입니다.<br>
       KT, Daum에서 NFC에 대한 지식 없이 사용할 수 있는 구조 구현한 AQ Component를 KT, Daum 개발자가 사용하기 위한 작업입니다.<br>
-      <img src="./AQ_DaumKt.png" alt="Daum/KT NFC 솔루션 이미지">
+      <img src="./img/AQ_DaumKt.png" alt="Daum/KT NFC 솔루션 이미지">
     </td>
   </tr>
 </table>
@@ -528,7 +528,7 @@ AI·클라우드·자동화 기술을 접목한
     <td>
       본 프로젝트는 함정에 배치된 유도무기 발사에 필요한 훈련을 하기 위하여 개발된 소프트웨어용 군 훈련체계입니다.<br>
       담당업무: SM2, RAM 미사일에 대한 네트워크 연동, 발사 시뮬레이션 데이터 생성 및 발사 알고리즘 개발.<br>
-      <img src="./Ares_Sm2Ram.png" alt="유도무기 모의 전술훈련장 체계 이미지">
+      <img src="./img/Ares_Sm2Ram.png" alt="유도무기 모의 전술훈련장 체계 이미지">
     </td>
   </tr>
 </table>
@@ -557,7 +557,7 @@ AI·클라우드·자동화 기술을 접목한
     <td>
       본 프로젝트는 패트리어트 미사일 발사 훈련을 VR을 이용하여 교육하기 위해서 개발된 프로그램입니다.<br>
       담당업무: 훈련을 진행하기 위한 엔진 설계 및 훈련 네트워크연결, DB연동하여 훈련평가 등 VR을 제외한 프로그램 개발.<br>
-      <img src="./Ares_VR.png" alt="패트리어트 미사일 시뮬레이션 VR 훈련체계 이미지">
+      <img src="./img/Ares_VR.png" alt="패트리어트 미사일 시뮬레이션 VR 훈련체계 이미지">
     </td>
   </tr>
 </table>
@@ -587,7 +587,7 @@ AI·클라우드·자동화 기술을 접목한
       본 프로젝트는 밧데리 셀 공정에서 전극부분의 절연이 벗겨지는 부분을 검사하는 프로그램입니다.<br>
       이미지를 취득하여 비전검사를 진행합니다.<br>
       담당업무는: 비전검사 알고리즘을 제외한 시스템 개발.<br>
-      <img src="./PTC_Foil.png" alt="Foil 노출 검사 소프트웨어 이미지">
+      <img src="./img/PTC_Foil.png" alt="Foil 노출 검사 소프트웨어 이미지">
     </td>
   </tr>
 </table>
@@ -622,9 +622,9 @@ AI·클라우드·자동화 기술을 접목한
       c. AWS 웹서비스 배포환경 구성 및 배포<br>
       d. AI 서버를 집(Linux)에 배포환경 구성하여 웹서버와 연결 구성<br>
       <프로젝트 시스템구성도><br>
-      <img src="./codelab_1.png" alt="시스템구성도 이미지"><br>
+      <img src="./img/codelab_1.png" alt="시스템구성도 이미지"><br>
       <프로젝트 UI><br>
-      <img src="./codelab_2.png" alt="종합피드백 서비스 이미지">
+      <img src="./img/codelab_2.png" alt="종합피드백 서비스 이미지">
     </td>
   </tr>
 </table>
